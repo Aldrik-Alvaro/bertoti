@@ -9,8 +9,12 @@
 
 body {
   text-align: center;
-  background: linear-gradient(to bottom, #6ab7f5, #fff);
+  background: rgba(0, 0, 0, 0.6);
   min-height: 100vh;
+}
+
+.body2 {
+  background: rgba(0, 0, 0, 0.6);
 }
 
 main {
@@ -91,4 +95,13 @@ main {
 .button:active {
   box-shadow: inset -4px 4px 0 #222;
   font-size: 0.9rem;
+}
+
+ /* Style the video: 100% width and height to cover the entire window */
+ #myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
