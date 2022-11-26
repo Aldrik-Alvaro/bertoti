@@ -1,12 +1,15 @@
 # PokedexJS
+
+
 <div align="center">
+<br>Laboratório de Desenvolvimento em Banco de Dados III<br>
+Nome: Aldrik de Faria Alvaro - RA:	1460282123060<br><br>
+
 Projeto de uma Pokedex utilizando uma api do Google
 <br>
 Feito com JavaScript, Css e HTML
 
 
-Site:  https://fabiocostaa.github.io/PokedexJS/ <br>
-Tutorial: https://www.youtube.com/watch?v=SjtdH3dWLa8 <br>
 API: https://pokeapi.co/
 </div>
 
