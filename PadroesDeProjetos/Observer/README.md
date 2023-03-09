@@ -1,6 +1,6 @@
 
 
-# Diagrama UML
+# Diagrama Observer
 <p align="center">
-      <img src="https://github.com/Aldrik-Alvaro/bertoti/blob/main/PadroesDeProjetos/diagramaPadroesdeProjetos.png?raw=true" width="40%" height="50%">
+      <img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/PadroesDeProjetos/Observer/diagramaPadroesdeProjetos.png" width="40%" height="50%">
 <p align="center">
