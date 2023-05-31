@@ -1,5 +1,5 @@
 // A interface Componente declara operações comuns para ambos os
 // objetos simples e complexos de uma composição.
-interface Componente {
+interface Funcionario {
     void exibirInformacoes();
 }
