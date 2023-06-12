@@ -1,4 +1,4 @@
-<h1>Portfólio das APIs - Aldrik de Faria Alvaro</h1>
+<!-- <h1>Portfólio das APIs - Aldrik de Faria Alvaro</h1>
 <p align="justify">Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 <h2>Sobre mim</h2>
@@ -25,7 +25,7 @@ Essa é uma breve descrição sobre mim, meu background acadêmico e minha exper
 </p>
 
 <p align="center">• <a href="www.linkedin.com/in/aldrik-alvaro-0bb952180">LinkedIn</a> • <a href="https://github.com/Aldrik-Alvaro">GitHub</a> •</p>
-
+ -->
 
 
 
@@ -51,15 +51,26 @@ Essa é uma breve descrição sobre mim, meu background acadêmico e minha exper
   <p align="justify"><a href="https://www.postgresql.org/">PostgreSQL:</a> SGBD para desenvolvimento do Banco de Dados.</p>
 <br>
   <h3>Contribuições Pessoais</h3>
-  <p align="justify">Como desenvolvedor, desempenhei um papel fundamental na construção da aplicação, colaborando ativamente com a equipe de desenvolvimento. Minha principal responsabilidade foi o desenvolvimento do back-end, trabalhando na implementação das funcionalidades e na lógica de negócios da aplicação.
+<!--   <p align="justify">Como desenvolvedor, desempenhei um papel fundamental na construção da aplicação, colaborando ativamente com a equipe de desenvolvimento. Minha principal responsabilidade foi o desenvolvimento do back-end, trabalhando na implementação das funcionalidades e na lógica de negócios da aplicação.
     Além disso, fui responsável pela comunicação entre o front-end e o back-end, garantindo que as informações fossem transmitidas corretamente e que as ações do usuário fossem processadas de acordo com as regras estabelecidas. Essa integração entre as camadas front-end e back-end foi essencial para garantir uma experiência de usuário fluida e eficiente.
     Um dos aspectos em que contribuí de forma significativa foi na implementação de filtros dinâmicos utilizando Ajax. Essa funcionalidade permitiu aos usuários filtrar e buscar informações de forma flexível e personalizada, melhorando a usabilidade da aplicação.
     Além disso, participei ativamente na definição da arquitetura da aplicação. Colaborei na identificação dos componentes principais, nas estratégias de escalabilidade e nas decisões de design que garantiram um sistema robusto e de fácil manutenção.
     Em resumo, minhas contribuições pessoais como desenvolvedor envolveram o desenvolvimento back-end, a comunicação entre o front-end e o back-end, a implementação de filtros dinâmicos utilizando Ajax e a definição da arquitetura da aplicação.
-  </p>
+  </p> -->
   
+  
+<summary align="justify"><b>Desenvolvimento do back-end:</b></summary>
+<p align="justify">Como desenvolvedor, desempenhei um papel fundamental no desenvolvimento do back-end da aplicação. Trabalhei ativamente na implementação das funcionalidades e na lógica de negócios da aplicação. Meu objetivo era garantir que a aplicação pudesse executar as ações necessárias e processar corretamente as solicitações dos usuários, atendendo às regras estabelecidas.<p>
+  
+ <summary align="justify"><b>Comunicação entre front-end e back-end:</b></summary>
+<p align="justify">Uma parte crucial do meu trabalho foi garantir uma comunicação eficiente entre as camadas front-end e back-end da aplicação. Eu me certificava de que as informações fossem transmitidas corretamente entre as duas camadas e que as ações do usuário fossem processadas de acordo com as regras definidas. Essa integração perfeita entre as duas partes da aplicação foi essencial para fornecer uma experiência de usuário fluida e eficiente.<p> 
+  
+<summary align="justify"><b>Implementação de filtros dinâmicos utilizando Ajax:</b></summary>
+<p align="justify">Uma das minhas contribuições mais significativas foi a implementação de filtros dinâmicos utilizando a tecnologia Ajax. Essa funcionalidade permitiu aos usuários filtrar e buscar informações de forma flexível e personalizada. Ao permitir que os usuários apliquem filtros em tempo real, melhorei significativamente a usabilidade da aplicação, proporcionando uma experiência mais intuitiva e eficiente na busca por informações.<p> 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/VIDEOS/1.png" width="50%" height="50%">
+</div>
 
- 
 <br>
   <h3>Lições Aprendidas</h3>
   Durante o desenvolvimento da aplicação e meu primeiro contato com Spring Boot, pude adquirir uma série de lições e conhecimentos valiosos. Algumas das principais lições aprendidas foram:
@@ -129,7 +140,7 @@ Adaptabilidade: Flexibilidade para lidar com mudanças, abraçar novas tecnologi
 
 Trabalho em Equipe: Habilidade de colaborar efetivamente com colegas de equipe, compartilhar conhecimentos, ouvir ativamente, contribuir para o sucesso coletivo e resolver conflitos de maneira construtiva.
 
-
+<!-- 
 <br>
 <h3>Prévia da Solução  </h3>
 <p align="center">
@@ -169,7 +180,7 @@ Trabalho em Equipe: Habilidade de colaborar efetivamente com colegas de equipe, 
   </table>
 </details>
 <p><a href="#sumário">Voltar para o início</a></p>
-
+ -->
 
 
 
