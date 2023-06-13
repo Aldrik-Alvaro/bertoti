@@ -72,7 +72,7 @@ Essa é uma breve descrição sobre mim, meu background acadêmico e minha exper
 </div>
 
 <br>
-  <h3>Lições Aprendidas</h3>
+  <h3>Aprendizados Efetivos</h3>
   Durante o desenvolvimento da aplicação e meu primeiro contato com Spring Boot, pude adquirir uma série de lições e conhecimentos valiosos. Algumas das principais lições aprendidas foram:
   <br></br>
 <details>
