@@ -1,11 +1,11 @@
-<!-- <h1>Portfólio das APIs - Aldrik de Faria Alvaro</h1>
+# Portfólio das APIs - Aldrik de Faria Alvaro
 <p align="justify">Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 <h2>Sobre mim</h2>
-<p align="center"><img src="https://github.com/Aldrik-Alvaro/portfolio-projeto-integrador-fatec/blob/main/FotoAldrik.jpg?raw=true" width="20%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/IMG_20231014_150329%7E2.jpg" width="15%"></p>
 
 <p align="justify">
-Olá, meu nome é Aldrik Alvaro. Sou um estudante de Banco de Dados na FATEC Prof. Jessen Vidal e tenho 21 anos. Atualmente, estou trabalhando como data engineer jr. Minha paixão pelo campo de dados começou enquanto eu estava estudando na faculdade e percebi o quão importante é gerenciar e analisar informações de maneira eficiente.
+Olá, meu nome é Aldrik Alvaro. Sou um estudante de Banco de Dados na FATEC Prof. Jessen Vidal e tenho 22 anos. Atualmente, estou trabalhando como data engineer jr. Minha paixão pelo campo de dados começou enquanto eu estava estudando na faculdade e percebi o quão importante é gerenciar e analisar informações de maneira eficiente.
 </p>
 
 <p align="justify">
@@ -25,172 +25,378 @@ Essa é uma breve descrição sobre mim, meu background acadêmico e minha exper
 </p>
 
 <p align="center">• <a href="www.linkedin.com/in/aldrik-alvaro-0bb952180">LinkedIn</a> • <a href="https://github.com/Aldrik-Alvaro">GitHub</a> •</p>
- -->
 
 
+# Meus Projetos
 
 
-
-
-<hr>
-<br>
-  <h2>Meus Projetos</h2>
-  <div class="semestre3"></div>
-  <h3>Iacit</h3>
-  <h4>3º Semestre • 6/2022 • <a href="https://github.com/fluffyfatec/Iacit">Repositório Github</a></h4>
-  <p align="justify">Parceiro Acadêmico: <a href="https://www.iacit.com.br/">Iacit</a></p>
-  <img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-1/GIT/cabecario%20(3).jpg" width="100%" height="100%">
-  <p align="justify"><a href="https://github.com/fluffyfatec/Iacit">Iacit</a> empresa de consultoria meteorológica, e hoje, um dos nossos serviços é fornecer aos nossos clientes, relatórios customizados de dados meteorológicos. Como trabalhamos processando muitas informações manualmente, acabamos que perdemos tempo e desperdiçamos recursos.</p>
-  <p align="justify">Por isso, precisamos de um sistema que nos permita realizar a importação dos dados meteorológicos, bem como armazená-los em uma base de dados, para posteriormente gerar os relatórios desejados por nossos clientes.</p>
-<br>
-  <h3>Tecnologias Utilizadas  </h3>
-  <p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação para back-end.</p>
-  <p align="justify"><a href="https://spring.io/">Spring Boot:</a> framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.</p>
-  <p align="justify"><a href="https://www.javascript.com/">JavaScript:</a> linguagem para desenvolvimento da aplicação para front-end.</p>
-  <p align="justify"><a href="https://www.thymeleaf.org/">Thymeleaf:</a> utilizada para comunicação entre o front-end e a API Rest elaborada no back-end.</p>
-  <p align="justify"><a href="https://www.postgresql.org/">PostgreSQL:</a> SGBD para desenvolvimento do Banco de Dados.</p>
-<br>
-  <h3>Contribuições Pessoais</h3>
-<!--   <p align="justify">Como desenvolvedor, desempenhei um papel fundamental na construção da aplicação, colaborando ativamente com a equipe de desenvolvimento. Minha principal responsabilidade foi o desenvolvimento do back-end, trabalhando na implementação das funcionalidades e na lógica de negócios da aplicação.
-    Além disso, fui responsável pela comunicação entre o front-end e o back-end, garantindo que as informações fossem transmitidas corretamente e que as ações do usuário fossem processadas de acordo com as regras estabelecidas. Essa integração entre as camadas front-end e back-end foi essencial para garantir uma experiência de usuário fluida e eficiente.
-    Um dos aspectos em que contribuí de forma significativa foi na implementação de filtros dinâmicos utilizando Ajax. Essa funcionalidade permitiu aos usuários filtrar e buscar informações de forma flexível e personalizada, melhorando a usabilidade da aplicação.
-    Além disso, participei ativamente na definição da arquitetura da aplicação. Colaborei na identificação dos componentes principais, nas estratégias de escalabilidade e nas decisões de design que garantiram um sistema robusto e de fácil manutenção.
-    Em resumo, minhas contribuições pessoais como desenvolvedor envolveram o desenvolvimento back-end, a comunicação entre o front-end e o back-end, a implementação de filtros dinâmicos utilizando Ajax e a definição da arquitetura da aplicação.
-  </p> -->
-  
-  
-<summary align="justify"><b>Desenvolvimento do back-end:</b></summary>
-<p align="justify">Como desenvolvedor, desempenhei um papel fundamental no desenvolvimento do back-end da aplicação. Trabalhei ativamente na implementação das funcionalidades e na lógica de negócios da aplicação. Meu objetivo era garantir que a aplicação pudesse executar as ações necessárias e processar corretamente as solicitações dos usuários, atendendo às regras estabelecidas.<p>
-  
- <summary align="justify"><b>Comunicação entre front-end e back-end:</b></summary>
-<p align="justify">Uma parte crucial do meu trabalho foi garantir uma comunicação eficiente entre as camadas front-end e back-end da aplicação. Eu me certificava de que as informações fossem transmitidas corretamente entre as duas camadas e que as ações do usuário fossem processadas de acordo com as regras definidas. Essa integração perfeita entre as duas partes da aplicação foi essencial para fornecer uma experiência de usuário fluida e eficiente.<p> 
-  
-<summary align="justify"><b>Implementação de filtros dinâmicos utilizando Ajax:</b></summary>
-<p align="justify">Uma das minhas contribuições mais significativas foi a implementação de filtros dinâmicos utilizando a tecnologia Ajax. Essa funcionalidade permitiu aos usuários filtrar e buscar informações de forma flexível e personalizada. Ao permitir que os usuários apliquem filtros em tempo real, melhorei significativamente a usabilidade da aplicação, proporcionando uma experiência mais intuitiva e eficiente na busca por informações.<p> 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/VIDEOS/1.png" width="50%" height="50%">
-</div>
-
-<br>
-  <h3>Aprendizados Efetivos</h3>
-  Durante o desenvolvimento da aplicação e meu primeiro contato com Spring Boot, pude adquirir uma série de lições e conhecimentos valiosos. Algumas das principais lições aprendidas foram:
-  <br></br>
 <details>
-  <summary align="justify"><b>
-    Aprendizado em Spring Boot
-  </b></summary>
-  <p align="justify">
-    Ao trabalhar com Spring Boot, adquiri uma compreensão mais profunda dos conceitos e práticas relacionadas ao desenvolvimento back-end. Aprendi a utilizar recursos poderosos, como injeção de dependência, anotações, configurações e desenvolvimento de APIs RESTful.
-  <p>
+  <summary>1° - Pandemia Estruturada</summary>
+
+## Pandemia Estruturada
+
+- **1º Semestre** • 6/2021 • [Repositório Github](https://github.com/SoSoJigsaw/Carcara)
+- Parceiro Acadêmico: [Fatec](https://fatecsjc-prd.azurewebsites.net/)
+
+![Imagem](https://github.com/SoSoJigsaw/Carcara/blob/main/Sprint%201/Logos/Carcar%C3%A1%20Logo%20Alternativa%20(fundo%20ros%C3%AA).jpg)
+
+Pandemia Estruturada é um projeto desenvolvido pele Carcará Analysis, que tem como objetivo analisar os dados oficiais da COVID-19 no estado de São Paulo e entrega-los ao usuário de forma clara e contextualizada, através de visualizações gráfica.
+
+Sendo a simplicidade um dos princípios do projeto, as visualizações serão geradas pensando prioritariamente na utilidade prática que podem oferecer ao cliente.
+
+### Tecnologias Utilizadas
+
+- [Python](https://www.python.org/): Linguagem utilizada para desenvolvimento do back-end.
+- [Flask](https://flask.palletsprojects.com/): Framework utilizado para facilitar a configuração e o gerenciamento das dependências no desenvolvimento em Python.
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem usada para o desenvolvimento do front-end.
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Utilizado para estruturar e criar o conteúdo das páginas web, não está diretamente relacionado à comunicação entre o front-end e o back-end, mas sim à criação de interfaces visuais.
+
+
+### Contribuições Pessoais
+
+#### Desenvolvimento do Front-end:
+Desempenhei um papel fundamental no desenvolvimento do front-end, implementando funcionalidades no projeto.
+
+#### Comunicação entre front-end e back-end:
+Garanti uma comunicação eficiente entre as camadas front-end e back-end, assegurando a transmissão correta de informações.
+
+<!-- ![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/VIDEOS/1.png) -->
+
+### Aprendizados Efetivos
+
+Durante o desenvolvimento, aprendi:
+
+<details>
+  <summary>Aprendizado em HTML</summary>
+  Trabalhar com HTML aprofundou minha compreensão de desenvolvimento front-end.
 </details>
 
 <details>
-  <summary align="justify"><b>
-    Aprimoramento do desenvolvimento front-end
-  </b></summary>
-  <p align="justify">
-    Embora minha principal responsabilidade fosse o desenvolvimento back-end, também tive a oportunidade de colaborar com o front-end. Isso me permitiu aprimorar minhas habilidades em tecnologias como HTML, CSS e JavaScript, bem como frameworks front-end, como React ou Angular.
-  <p>
+  <summary>Aprimoramento do desenvolvimento front-end</summary>
+  Tive a oportunidade de aprimorar minhas habilidades em tecnologias front-end.
+</details>
+
+
+### Hard Skills
+
+- **HTML**: Conhecimento avançado em linguagens de marcação para web.
+- **Python**: Proficiência em Python, incluindo conhecimentos em frameworks como Flask.
+
+
+### Soft Skills
+
+- **Resolução de Problemas**
+- **Pensamento Analítico**
+- **Comunicação Efetiva**
+- **Pensamento Crítico**
+- **Adaptabilidade**
+- **Trabalho em Equipe**
+
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>2° - Dom Rock</summary>
+
+## Dom Rock
+
+- **2º Semestre** • 2/2023 • [Repositório Github](https://github.com/Aldrik-Alvaro/Dom_Rock)
+- Parceiro Acadêmico: [Dom Rock](https://www.domrock.net/)
+
+![Imagem](https://github.com/Aldrik-Alvaro/Dom_Rock/blob/main/GIT/cabecario2.jpg)
+
+O desafio consiste em desenvolver uma solução na gestão de ativação do cliente na plataforma Dom Rock.
+
+A empresa busca uma solução que seja orientada a entrada de dados de parâmetros e variáveis de cada cliente para alocar recursos na plataforma Dom Rock, entrada de dados e estimativa de consumo de recursos (baseado em volume de dados de cliente, quantidade de usuários e outros) e gere relatórios e consultas, mas, principalmente, tenha a base de dados modelada adequadamente para futuras integrações com outros sistemas.
+
+A Fluffy API desenvolveu o Sistema de Gerenciamento de Clientes - Dom Rock, uma aplicação desktop desenvolvida em Java utilizando um banco relacional para cadastrar e armazenar o dados do briefing dos clientes.
+
+Além de cadastrar, também ira possuir a função de consulta, edição, relatórios, logs e exportação. Não esquecendo dos usuários com níveis de acessos definidos para maior segurança dos dados na plataforma.
+
+### Tecnologias Utilizadas
+
+- [Java SE 14](https://www.oracle.com/java/): Linguagem para desenvolvimento do back-end em Java.
+- [JavaFX](https://openjfx.io/): Plataforma para criação de interfaces gráficas em Java.
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem para o desenvolvimento do front-end.
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server): Sistema Gerenciador de Banco de Dados (SGBD) desenvolvido pela Microsoft.
+
+### Contribuições Pessoais
+
+#### Desenvolvimento do Banco de dados:
+Desempenhei um papel fundamental no desenvolvimento do banco de dados SQL Server, trabalhando no design, estruturação e implementação das funcionalidades específicas necessárias para o projeto.
+
+
+![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/view%20dom%20rock.png)
+
+### Aprendizados Efetivos
+
+Durante o desenvolvimento, aprendi:
+
+<details>
+  <summary>Aprendizado em Banco de dados</summary>
+  Trabalhar com o SQL Server ampliou minha compreensão sobre gerenciamento de bancos de dados e consultas SQL.
+</details>
+
+
+
+
+### Hard Skills
+
+- **Banco de Dados**: Conhecimento específico em SQL Server para bancos relacionais.
+
+
+### Soft Skills
+
+- **Resolução de Problemas**
+- **Comunicação eficaz**
+- **Flexibilidade**
+- **Trabalho em Equipe**
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>3° - Iacit</summary>
+
+## Iacit
+
+- **3º Semestre** • 6/2022 • [Repositório Github](https://github.com/fluffyfatec/Iacit)
+- Parceiro Acadêmico: [Iacit](https://www.iacit.com.br/)
+
+![Imagem](https://github.com/fluffyfatec/Iacit/blob/Sprint-1/GIT/cabecario%20(3).jpg)
+
+A Iacit é uma empresa de consultoria meteorológica. Atualmente, um dos nossos serviços é fornecer aos clientes relatórios customizados de dados meteorológicos. Porém, processamos muitas informações manualmente, resultando em perda de tempo e recursos.
+
+Para resolver isso, precisamos de um sistema para importar e armazenar os dados meteorológicos em uma base de dados, permitindo gerar os relatórios desejados pelos clientes.
+
+### Tecnologias Utilizadas
+
+- [Java SE 14](https://www.java.com/pt-BR/): Linguagem para desenvolvimento do back-end.
+- [Spring Boot](https://spring.io/): Framework para facilitar a configuração e gerenciamento das dependências do projeto em Java.
+- [JavaScript](https://www.javascript.com/): Linguagem para o desenvolvimento do front-end.
+- [Thymeleaf](https://www.thymeleaf.org/): Utilizada para comunicação entre o front-end e a API Rest no back-end.
+- [PostgreSQL](https://www.postgresql.org/): SGBD para o desenvolvimento do Banco de Dados.
+
+### Contribuições Pessoais
+
+#### Desenvolvimento do back-end:
+Desempenhei um papel fundamental no desenvolvimento do back-end, implementando funcionalidades e lógica de negócios.
+
+#### Comunicação entre front-end e back-end:
+Garanti uma comunicação eficiente entre as camadas front-end e back-end, assegurando a transmissão correta de informações.
+
+#### Implementação de filtros dinâmicos utilizando Ajax:
+Implementei filtros dinâmicos com Ajax para permitir aos usuários filtrar e buscar informações de forma flexível.
+
+![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/VIDEOS/1.png)
+
+### Aprendizados Efetivos
+
+Durante o desenvolvimento, aprendi:
+
+<details>
+  <summary>Aprendizado em Spring Boot</summary>
+  Trabalhar com Spring Boot aprofundou minha compreensão de desenvolvimento back-end.
 </details>
 
 <details>
-  <summary align="justify"><b>
-    Integração entre front-end e back-end
-  </b></summary>
-  <p align="justify">
-    Ao trabalhar na comunicação entre o front-end e o back-end, aprendi a importância de estabelecer uma estrutura eficiente para troca de dados e informações. Compreendi como lidar com requisições assíncronas, manipular respostas em formato JSON e garantir a segurança e integridade dos dados transmitidos.
-  <p>
+  <summary>Aprimoramento do desenvolvimento front-end</summary>
+  Tive a oportunidade de aprimorar minhas habilidades em tecnologias front-end.
 </details>
 
 <details>
-  <summary align="justify"><b>
-    Trabalho em equipe e colaboração
-  </b></summary>
-  <p align="justify">
-  Ao trabalhar com outros desenvolvedores na construção da aplicação, aprendi a importância da comunicação clara, colaboração e divisão de tarefas. Aprendi a trabalhar em um ambiente ágil, compartilhando conhecimentos, solucionando problemas em conjunto e respeitando prazos e metas estabelecidos.
-  <p>
+  <summary>Integração entre front-end e back-end</summary>
+  Aprendi a importância de uma comunicação eficiente entre as camadas front-end e back-end.
 </details>
 
-<br>
-Hard Skills:
-
-Banco de Dados: Conhecimento sólido em bancos de dados relacionais, como MySQL, Oracle, PostgreSQL, bem como em bancos de dados NoSQL, como MongoDB ou Cassandra. Familiaridade com modelagem de dados, consultas SQL, otimização de consultas e administração de bancos de dados.
-
-Linguagens de Programação: Proficiência em linguagens como Python, Java ou C#, utilizadas no desenvolvimento de aplicações e scripts relacionados a dados. Conhecimento em SQL para manipulação de dados em bancos de dados relacionais.
-
-Ferramentas e Tecnologias de Data Engineering: Experiência com ferramentas de ETL (Extração, Transformação e Carga), como Apache Spark, Apache Airflow ou Talend. Conhecimento em frameworks de processamento distribuído, como Hadoop ou Apache Kafka.
-
-Data Warehousing: Familiaridade com conceitos e técnicas de data warehousing, como modelagem dimensional, criação de cubos OLAP e ETL para integração de dados.
-
-Business Intelligence: Conhecimento em ferramentas de visualização de dados, como Tableau, Power BI ou QlikView, para criação de dashboards e relatórios interativos.
-
-<br>
-<br>
-Soft Skills:
-
-Resolução de Problemas: Capacidade de identificar problemas, analisar informações relevantes, propor soluções e implementar ações efetivas para resolver os desafios encontrados no campo de dados.
-
-Pensamento Analítico: Habilidade de analisar e interpretar dados complexos, identificar padrões, tendências e insights relevantes para apoiar a tomada de decisões informadas.
-
-Comunicação Efetiva: Capacidade de transmitir informações técnicas de forma clara e concisa, tanto para colegas de trabalho quanto para não especialistas em dados. Habilidade de colaborar em equipes multidisciplinares e comunicar ideias de forma eficaz.
-
-Pensamento Crítico: Capacidade de avaliar diferentes pontos de vista, questionar premissas, identificar falhas lógicas e propor abordagens alternativas para resolver problemas complexos.
-
-Adaptabilidade: Flexibilidade para lidar com mudanças, abraçar novas tecnologias e processos, e se adaptar rapidamente a ambientes de trabalho dinâmicos.
-
-Trabalho em Equipe: Habilidade de colaborar efetivamente com colegas de equipe, compartilhar conhecimentos, ouvir ativamente, contribuir para o sucesso coletivo e resolver conflitos de maneira construtiva.
-
-<!-- 
-<br>
-<h3>Prévia da Solução  </h3>
-<p align="center">
-  <img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" width="100%" height="100%">
-<p align="center">
 <details>
-  <summary><b>Menu Principal com dashboard com todos os dados mereológicos / Filtros</b></summary>
-  <p align="justify">Com o menu principal é possível visualizar uma gama de gráficos e seus respectivos dados, além da possibilidade de efetuar a aplicação de um filtro para os dados.</p>
-  <br>
-  <table align="center">
-    <tr>
-      <td alignt="center"><img src="https://github.com/Aldrik-Alvaro/portfolio-projeto-integrador-fatec/blob/f1104f5147cde6a40399df25e41a559793b8a5e5/VIDEOS/1-Menu-Principal-com-dashboard-com-todos-os-dados-mereol%C3%B3gicos.gif" alt=""/>
-      </td>     
-    </tr>
-  </table>
+  <summary>Trabalho em equipe e colaboração</summary>
+  A importância da comunicação e colaboração para um trabalho em equipe eficaz.
 </details>
+
+### Hard Skills
+
+- **Banco de Dados**: Conhecimento em bancos relacionais (MySQL, Oracle, PostgreSQL) e NoSQL (MongoDB, Cassandra).
+- **Linguagens de Programação**: Proficiência em Python, Java, C# e SQL.
+- **Ferramentas e Tecnologias de Data Engineering**: Experiência com ETL (Apache Spark, Apache Airflow, Talend) e frameworks de processamento distribuído.
+- **Data Warehousing**: Familiaridade com modelagem dimensional, cubos OLAP e ETL para integração de dados.
+- **Business Intelligence**: Conhecimento em Tableau, Power BI, QlikView para visualização de dados.
+
+### Soft Skills
+
+- **Resolução de Problemas**
+- **Pensamento Analítico**
+- **Comunicação Efetiva**
+- **Pensamento Crítico**
+- **Adaptabilidade**
+- **Trabalho em Equipe**
+
+</details>
+
 <details>
-  <summary><b>Possibilidade de visualização de dados separada / geração de relatórios</b></summary>
-  <p align="justify">Com as abas no menu é possível analisar cada dado mereológico separadamente com a possibilidade de geração de relatórios para PDF do mesmo.</p>
-  <br>
-  <table align="center">
-    <tr>
-      <td alignt="center"><img src="https://github.com/Aldrik-Alvaro/portfolio-projeto-integrador-fatec/blob/f1104f5147cde6a40399df25e41a559793b8a5e5/VIDEOS/2-Possibilidade-de-visualiza%C3%A7%C3%A3o-de-dados-separada-.gif" alt=""/>
-      </td>     
-    </tr>
-  </table>
-</details>
+  <summary>4° - Embraer</summary>
+
+## Embraer
+
+- **4º Semestre** • 2/2023 • [Repositório Github](https://github.com/Aldrik-Alvaro/apiEmbraer4-sem/tree/main)
+- Parceiro Acadêmico: [Embraer](https://embraer.com/br/pt)
+
+![Imagem](https://github.com/octopusBD/apiEmbraer4-sem/blob/b92089563bafd98ceac265983ccba1574dacab6e/Imagens%20documentacao/doc/inicial.png)
+
+Desafio - 
+Atualmente, muitos pilotos trabalham como autônomos e não operam apenas um único avião ou frota, o que dificulta reconhecer facilmente e de maneira simples certos equipamentos e versões de software instalados na aeronave. Além disso, nem sempre os pilotos têm acesso rápido a todos os manuais e documentos da aeronave, o que prejudica o conhecimento sobre ela e suas capacidades.
+
+Solução
+A equipe da Octopus desenvolverá um software web para a Embraer que permitirá aos usuários acessar toda a documentação de maneira simples e intuitiva por meio de dispositivos móveis, possibilitando o acesso ao manual em qualquer lugar e a qualquer momento.
+
+### Tecnologias Utilizadas
+
+- [Java SE 14](https://www.oracle.com/java/): Linguagem de programação utilizada para o desenvolvimento do back-end em Java.
+- [Spring Boot](https://spring.io/projects/spring-boot): Framework para simplificar a configuração e o gerenciamento de dependências no desenvolvimento em Java.
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem utilizada para o desenvolvimento do front-end.
+- [Vue.js](https://vuejs.org/): Framework progressivo de JavaScript utilizado para criar interfaces de usuário no front-end e se comunicar com APIs REST no back-end.
+- [Oracle Autonomous Database](https://www.oracle.com/database/): Um serviço de banco de dados fornecido pela Oracle para o desenvolvimento do banco de dados.
+
+
+### Contribuições Pessoais
+
+
+#### Comunicação entre front-end e back-end: 
+Assegurei a integração eficiente entre as camadas front-end e back-end, facilitando a transmissão precisa e segura de informações entre os sistemas Vue.js no front-end e Spring Boot no back-end.
+
+#### Desenvolvimento do banco de dados:
+Desempenhei um papel fundamental no design, implementação e manutenção do banco de dados Oracle Autonomous, garantindo sua integridade e desempenho para atender às necessidades do projeto.
+
+![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/job%20embraer.png)
+
+### Aprendizados Efetivos
+
+Durante o desenvolvimento, aprendi:
+
 <details>
-  <summary><b>Tela de controle de usuário / estações</b></summary>
-  <p align="justify">Uma tela onde é possível Cadastrar/Editar/Excluir Usuários/Estações da base de dados, além da possibilidade de inativação de estações onde a mesma não ficara disponível para consulta na tela principal.</p>
-  <br>
-  <table align="center">
-    <tr>
-      <td alignt="center"><img src="https://github.com/Aldrik-Alvaro/portfolio-projeto-integrador-fatec/blob/f1104f5147cde6a40399df25e41a559793b8a5e5/VIDEOS/3-Tela-de-controle-de-usu%C3%A1rio-.gif" alt=""/>
-      </td>     
-    </tr>
-  </table>
+  <summary>Aprendizado em banco de dados</summary>
+  Aprofundei meu conhecimento no gerenciamento de bancos de dados Oracle, especialmente em sua integração e utilização eficiente no desenvolvimento de aplicações.
 </details>
-<p><a href="#sumário">Voltar para o início</a></p>
- -->
+
+<details>
+  <summary>Aprimoramento do desenvolvimento front-end</summary>
+  Desenvolvi minhas habilidades em tecnologias front-end, aprimorando a criação de interfaces e a implementação de soluções visuais.
+</details>
+
+<details>
+  <summary>Integração entre front-end e back-end</summary>
+  Compreendi a importância e as práticas para uma comunicação eficiente entre as camadas front-end e back-end, facilitando a interação entre sistemas Vue.js no front-end e Spring Boot no back-end.
+</details>
+
+
+
+### Hard Skills
+
+- **Banco de Dados**: Conhecimento em bancos relacionais Oracle.
+- **Linguagens de Programação**: Proficiência em Java e Vue.js.
+- **Ferramentas e Tecnologias de Data Engineering**: Experiência com ETL (Apache Spark) e frameworks de processamento distribuído.
+
+### Soft Skills
+
+- **Resolução de Problemas**
+- **Pensamento Crítico**
+- **Adaptabilidade**
+- **Trabalho em Equipe**
+
+</details>
 
 
 
 
-</hr>
 
 
 
 
 
+<details>
+  <summary>5° - Oracle</summary>
+
+## Oracle
+
+- **5º Semestre** • 6/2023 • [Repositório Github](https://github.com/Aldrik-Alvaro/Projeto-Integrador-Oracle)
+- Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/)
+
+![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/Projeto-Integrador-Oracle/main/Documentacao/Team/imgOracleFatec_1.jpg)
+
+Desafio - 
+Neste desafio, você terá a oportunidade de criar uma plataforma online que permitirá aos proprietários de restaurantes gerenciar suas operações de forma eficiente e intuitiva. O objetivo é criar um sistema abrangente que ofereça recursos como painéis de controle, gráficos, relatórios e funcionalidades para gerenciar pessoal, fornecedores e insumos.
+
+Solução - 
+A equipe da Fluffy desenvolverá um sistema web que permitirá o gerenciamento de insumos e funcionários, além de fornecer visualização de dados processados para que o proprietário do negócio possa gerenciar suas vendas, estoques, equipe de trabalho e projetar suas ações futuras.
+
+### Tecnologias Utilizadas
+
+- [Java SE 14](https://www.oracle.com/java/): Linguagem de programação utilizada para o desenvolvimento do back-end em Java.
+- [Spring Boot](https://spring.io/projects/spring-boot): Framework para simplificar a configuração e o gerenciamento de dependências no desenvolvimento em Java.
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem utilizada para o desenvolvimento do front-end.
+- [Vue.js](https://vuejs.org/): Framework progressivo de JavaScript utilizado para criar interfaces de usuário no front-end e se comunicar com APIs REST no back-end.
+- [Oracle Autonomous Database](https://www.oracle.com/database/): Um serviço de banco de dados fornecido pela Oracle para o desenvolvimento do banco de dados.
+- [Oracle Analytics](https://www.oracle.com/database/): Uma plataforma de análise de dados fornecida pela Oracle para a visualização, análise e geração de insights a partir de dados armazenados no banco de dados Oracle.
 
 
-  
+### Contribuições Pessoais
+
+#### Desenvolvimento do Front-end:
+Desempenhei um papel fundamental no desenvolvimento do front-end, implementando funcionalidades e aprimorando a experiência do usuário no projeto.
+
+#### Comunicação entre front-end e back-end:
+Assegurei uma comunicação eficiente e precisa entre as camadas front-end e back-end, garantindo a integração fluida e a transmissão correta de informações.
+
+#### Criação de gráficos e visualizações no BI:
+Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, utilizando dados provenientes da integração entre front-end e back-end para apresentar informações relevantes de forma clara e visualmente impactante.
+
+
+
+![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/bi%20oracle.jpg)
+
+### Aprendizados Efetivos
+
+<details>
+  <summary>Aprimoramento do desenvolvimento front-end</summary>
+  Desenvolvi minhas habilidades em tecnologias front-end, aprimorando a criação de interfaces e a implementação de soluções visuais.
+</details>
+
+<details>
+  <summary>Aprimoramento do desenvolvimento de visualizações no BI Oracle</summary>
+  Aprofundei minha compreensão e habilidades no desenvolvimento de visualizações e análises de dados utilizando Oracle Analytics, focando em apresentações visuais e interpretação de informações para suporte à tomada de decisões.
+</details>
+
+### Hard Skills
+
+- **Oracle Analytics**: Proficiência em criação de visualizações e análises de dados utilizando Oracle Analytics, com foco em apresentações visuais para tomada de decisões.
+- **Linguagens de Programação**: Proficiência em JavaScript para desenvolvimento front-end.
+
+
+### Soft Skills
+
+- **Pensamento Crítico**
+- **Adaptabilidade**
+- **Trabalho em Equipe**
+
+</details>
