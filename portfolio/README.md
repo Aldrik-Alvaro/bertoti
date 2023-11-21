@@ -133,7 +133,8 @@ Além de cadastrar, também ira possuir a função de consulta, edição, relat�
 #### Desenvolvimento do Banco de dados:
 Desempenhei um papel fundamental no desenvolvimento do banco de dados SQL Server, trabalhando no design, estruturação e implementação das funcionalidades específicas necessárias para o projeto.
 
-
+#### Codigo:
+Nesse trecho de codigo construo uma view, para poder trazer todas as bases unificadas atraves de left joins com base nos campos chaves usados.
 ![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/view%20dom%20rock.png)
 
 ### Aprendizados Efetivos
@@ -288,6 +289,8 @@ Assegurei a integração eficiente entre as camadas front-end e back-end, facili
 #### Desenvolvimento do banco de dados:
 Desempenhei um papel fundamental no design, implementação e manutenção do banco de dados Oracle Autonomous, garantindo sua integridade e desempenho para atender às necessidades do projeto.
 
+#### Codigo
+Aqui um exemplo de uma trigger onde a mesma é responsavel por gerar logs de auditoria para algumas tabelas essenciais.
 ![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/job%20embraer.png)
 
 ### Aprendizados Efetivos
@@ -372,7 +375,8 @@ Assegurei uma comunicação eficiente e precisa entre as camadas front-end e bac
 Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, utilizando dados provenientes da integração entre front-end e back-end para apresentar informações relevantes de forma clara e visualmente impactante.
 
 
-
+##### Codigo
+Construi filtros em ajax para realizar consultas dinamicas onde uma consulta desencadeia a outra, assim temos filtros responsiveis a informação que o usuario está filtrando.
 ![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/bi%20oracle.jpg)
 
 ### Aprendizados Efetivos
