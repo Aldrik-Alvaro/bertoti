@@ -2,14 +2,22 @@
 <p align="justify">Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 <h2>Sobre mim</h2>
-<p align="center"><img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/IMG_20231014_150329%7E2.jpg" width="15%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/IMG_20230921_181017.jpg" width="15%"></p>
 
 <p align="justify">
-Olá, meu nome é Aldrik Alvaro. Sou um estudante de Banco de Dados na FATEC Prof. Jessen Vidal e tenho 22 anos. Atualmente, estou trabalhando como data engineer jr. Minha paixão pelo campo de dados começou enquanto eu estava estudando na faculdade e percebi o quão importante é gerenciar e analisar informações de maneira eficiente.
+Olá, meu nome é Aldrik Alvaro. Sou um estudante de Banco de Dados na FATEC Prof. Jessen Vidal, tenho 22 anos e resido em São José dos Campos. Minha paixão pela programação começou enquanto eu estava estudando no curso técnico de Análise e Desenvolvimento de Sistemas na ETEC Ilza Nascimento Pintus, onde percebi o quão importante é gerenciar e analisar informações de maneira eficiente.
 </p>
 
 <p align="justify">
-Ao longo dos meus estudos, tenho aprendido sobre diversos aspectos do Banco de Dados, desde os fundamentos teóricos até as práticas mais avançadas de gerenciamento e análise de dados. Além disso, como data engineer jr., estou envolvido no desenvolvimento e manutenção de pipelines de dados, transformando dados brutos em insights valiosos.
+Ao longo dos meus estudos, tenho aprendido sobre diversos aspectos do Banco de Dados, desde os fundamentos teóricos até as práticas mais avançadas de gerenciamento e análise de dados.  
+</p>
+
+<p align="justify">
+No meio do caminho, pude enfrentar desafios com as oportunidades que tive, como trabalhar na área de projetos do Hospital Santa Casa, adquirindo conhecimentos valiosos sobre gerenciamento de banco de dados e criação de projetos.
+</p>
+
+<p align="justify">
+Após 1 ano, recebi um convite para enfrentar outro desafio, que seria estagiar como Engenheiro de Dados na empresa Dom Rock. Estando envolvido no desenvolvimento e manutenção de pipelines de dados, transformando dados brutos em insights valiosos.
 </p>
 
 <p align="justify">
@@ -20,11 +28,8 @@ Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução,
 Além do meu trabalho e estudos, também gosto de participar de projetos paralelos e buscar oportunidades de aprendizado contínuo. Sou motivado, comprometido e apaixonado por desafios, e estou ansioso para crescer profissionalmente nesta área emocionante e em expansão.
 </p>
 
-<p align="justify">
-Essa é uma breve descrição sobre mim, meu background acadêmico e minha experiência como data engineer jr. Estou empolgado com as oportunidades que o futuro me reserva nesta área e estou aberto a novos desafios e colaborações.
-</p>
 
-<p align="center">• <a href="www.linkedin.com/in/aldrik-alvaro-0bb952180">LinkedIn</a> • <a href="https://github.com/Aldrik-Alvaro">GitHub</a> •</p>
+<p align="center">• <a href="https://www.linkedin.com/in/aldrikalvaro/">LinkedIn</a> • <a href="https://github.com/Aldrik-Alvaro">GitHub</a> •</p>
 
 
 # Meus Projetos
