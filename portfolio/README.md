@@ -1,5 +1,4 @@
 # Portfólio das APIs - Aldrik de Faria Alvaro
-<p align="justify">Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 <h2>Sobre mim</h2>
 <p align="center"><img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/IMG_20230921_181017.jpg" width="15%"></p>
@@ -22,10 +21,6 @@ Após 1 ano, recebi um convite para enfrentar outro desafio, que seria estagiar 
 
 <p align="justify">
 Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução, onde posso aplicar meus conhecimentos teóricos e habilidades práticas para resolver problemas complexos relacionados a dados. Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias e ferramentas para se manter atualizado nas tendências da área.
-</p>
-
-<p align="justify">
-Além do meu trabalho e estudos, também gosto de participar de projetos paralelos e buscar oportunidades de aprendizado contínuo. Sou motivado, comprometido e apaixonado por desafios, e estou ansioso para crescer profissionalmente nesta área emocionante e em expansão.
 </p>
 
 
