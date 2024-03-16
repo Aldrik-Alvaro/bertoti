@@ -42,8 +42,9 @@ Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução,
 
 ![Imagem](https://github.com/SoSoJigsaw/Carcara/blob/main/Sprint%201/Logos/Carcar%C3%A1%20Logo%20Alternativa%20(fundo%20ros%C3%AA).jpg)
 
+
+Em 6/2021, trabalhei no projeto da API com o Parceiro Acadêmico Fatec.
 <p align="justify">
-Em 2021-6, trabalhei no projeto da API com o Parceiro Acadêmico Fatec. 
 Nosso objetivo foi analisar os dados da COVID-19 no estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, por meio de visualizações gráficas. Sendo a simplicidade um dos princípios do projeto, as visualizações serão geradas pensando prioritariamente na utilidade prática que podem oferecer ao cliente.
 </p>
 
@@ -101,8 +102,9 @@ Nosso objetivo foi analisar os dados da COVID-19 no estado de São Paulo e entre
 
 ![Imagem](https://github.com/Aldrik-Alvaro/Dom_Rock/blob/main/GIT/cabecario2.jpg)
 
+Em 2/2023, trabalhei no projeto da API com o Parceiro Acadêmico Dom Rock.
 <p align="justify">
-O desafio foi desenvolver uma solução para gerenciar a ativação de clientes na plataforma Dom Rock, integrando dados de parâmetros e variáveis de cada cliente para alocação de recursos. A solução deve incluir entrada de dados, estimativa de consumo de recursos, geração de relatórios e consultas, além de uma base de dados bem modelada para futuras integrações. A equipe Fluffy desenvolveu um Sistema de Gerenciamento de Clientes em Java, com funcionalidades de cadastro, consulta, edição, relatórios, logs e exportação, e com níveis de acesso para garantir segurança dos dados.
+O desafio foi desenvolver uma solução para gerenciar a ativação de clientes na plataforma Dom Rock, integrando dados de parâmetros e variáveis de cada cliente para alocação de recursos. A equipe Fluffy desenvolveu um Sistema de Gerenciamento de Clientes em Java, com funcionalidades de cadastro, consulta, edição, relatórios, logs e exportação, e com níveis de acesso para garantir segurança dos dados.
 </p>
 
 ### Tecnologias Utilizadas
@@ -156,9 +158,11 @@ O desafio foi desenvolver uma solução para gerenciar a ativação de clientes 
 
 ![Imagem](https://github.com/fluffyfatec/Iacit/blob/Sprint-1/GIT/cabecario%20(3).jpg)
 
-A Iacit é uma empresa de consultoria meteorológica. Atualmente, um dos nossos serviços é fornecer aos clientes relatórios customizados de dados meteorológicos. Porém, processamos muitas informações manualmente, resultando em perda de tempo e recursos.
 
-Para resolver isso, precisamos de um sistema para importar e armazenar os dados meteorológicos em uma base de dados, permitindo gerar os relatórios desejados pelos clientes.
+Em 6/2022, trabalhei no projeto da API com o Parceiro Acadêmico IACIT.
+<p align="justify">
+O desafio do projeto foi criar um sistema para importar e armazenar dados meteorológicos em uma base de dados, permitindo criar dashboards para análise dos dados e exportação de relatórios desejados pelos clientes.
+</p>
 
 ### Tecnologias Utilizadas
 
@@ -211,11 +215,11 @@ Para resolver isso, precisamos de um sistema para importar e armazenar os dados 
 
 ![Imagem](https://github.com/octopusBD/apiEmbraer4-sem/blob/b92089563bafd98ceac265983ccba1574dacab6e/Imagens%20documentacao/doc/inicial.png)
 
-Desafio - 
-Atualmente, muitos pilotos trabalham como autônomos e não operam apenas um único avião ou frota, o que dificulta reconhecer facilmente e de maneira simples certos equipamentos e versões de software instalados na aeronave. Além disso, nem sempre os pilotos têm acesso rápido a todos os manuais e documentos da aeronave, o que prejudica o conhecimento sobre ela e suas capacidades.
+Em 2/2023, trabalhei no projeto da API com o Parceiro Acadêmico Embraer.
+<p align="justify">
+O desafio do projeto foi desenvolver um software web para a Embraer que permitisse aos usuários acessar toda a documentação de diversos tipos de aviões de maneira simples e intuitiva por meio de dispositivos móveis, possibilitando o acesso ao manual em qualquer lugar e a qualquer momento.
+</p>
 
-Solução
-A equipe da Octopus desenvolverá um software web para a Embraer que permitirá aos usuários acessar toda a documentação de maneira simples e intuitiva por meio de dispositivos móveis, possibilitando o acesso ao manual em qualquer lugar e a qualquer momento.
 
 ### Tecnologias Utilizadas
 
@@ -267,11 +271,10 @@ A equipe da Octopus desenvolverá um software web para a Embraer que permitirá 
 
 ![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/Projeto-Integrador-Oracle/main/Documentacao/Team/imgOracleFatec_1.jpg)
 
-Desafio - 
-Neste desafio, você terá a oportunidade de criar uma plataforma online que permitirá aos proprietários de restaurantes gerenciar suas operações de forma eficiente e intuitiva. O objetivo é criar um sistema abrangente que ofereça recursos como painéis de controle, gráficos, relatórios e funcionalidades para gerenciar pessoal, fornecedores e insumos.
-
-Solução - 
-A equipe da Fluffy desenvolverá um sistema web que permitirá o gerenciamento de insumos e funcionários, além de fornecer visualização de dados processados para que o proprietário do negócio possa gerenciar suas vendas, estoques, equipe de trabalho e projetar suas ações futuras.
+Em 6/2023, trabalhei no projeto da API com o Parceiro Acadêmico Oracle.
+<p align="justify">
+O desafio consistiu em desenvolver um sistema web que permitisse o gerenciamento de insumos e funcionários, além de fornecer visualização de dados processados para que o proprietário do negócio possa gerenciar suas vendas, estoques, equipe de trabalho e projetar suas ações futuras.
+</p>
 
 ### Tecnologias Utilizadas
 
