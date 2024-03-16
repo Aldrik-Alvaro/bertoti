@@ -1,5 +1,4 @@
 # Portfólio das APIs - Aldrik de Faria Alvaro
-
 <h2>Sobre mim</h2>
 <p align="center"><img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/IMG_20230921_181017.jpg" width="15%"></p>
 
@@ -27,6 +26,9 @@ Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução,
 <p align="center">• <a href="https://www.linkedin.com/in/aldrikalvaro/">LinkedIn</a> • <a href="https://github.com/Aldrik-Alvaro">GitHub</a> •</p>
 
 
+
+
+
 # Meus Projetos
 
 
@@ -40,7 +42,7 @@ Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução,
 
 ![Imagem](https://github.com/SoSoJigsaw/Carcara/blob/main/Sprint%201/Logos/Carcar%C3%A1%20Logo%20Alternativa%20(fundo%20ros%C3%AA).jpg)
 
-Pandemia Estruturada é um projeto desenvolvido pele Carcará Analysis, que tem como objetivo analisar os dados oficiais da COVID-19 no estado de São Paulo e entrega-los ao usuário de forma clara e contextualizada, através de visualizações gráfica.
+"Pandemia Estruturada" é um projeto desenvolvido pela Carcará Analysis, que tem como objetivo analisar os dados oficiais da COVID-19 no estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, através de visualizações gráficas.
 
 Sendo a simplicidade um dos princípios do projeto, as visualizações serão geradas pensando prioritariamente na utilidade prática que podem oferecer ao cliente.
 
@@ -55,27 +57,12 @@ Sendo a simplicidade um dos princípios do projeto, as visualizações serão ge
 ### Contribuições Pessoais
 
 #### Desenvolvimento do Front-end:
-Desempenhei um papel fundamental no desenvolvimento do front-end, implementando funcionalidades no projeto.
+ - Desempenhei um papel no desenvolvimento do front-end, implementando funcionalidades no projeto.
 
 #### Comunicação entre front-end e back-end:
-Garanti uma comunicação eficiente entre as camadas front-end e back-end, assegurando a transmissão correta de informações.
+ - Garanti uma comunicação eficiente entre as camadas front-end e back-end, assegurando a transmissão correta de informações.
 
 <!-- ![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/VIDEOS/1.png) -->
-
-### Aprendizados Efetivos
-
-Durante o desenvolvimento, aprendi:
-
-<details>
-  <summary>Aprendizado em HTML</summary>
-  Trabalhar com HTML aprofundou minha compreensão de desenvolvimento front-end.
-</details>
-
-<details>
-  <summary>Aprimoramento do desenvolvimento front-end</summary>
-  Tive a oportunidade de aprimorar minhas habilidades em tecnologias front-end.
-</details>
-
 
 ### Hard Skills
 
