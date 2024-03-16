@@ -42,9 +42,11 @@ Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução,
 
 ![Imagem](https://github.com/SoSoJigsaw/Carcara/blob/main/Sprint%201/Logos/Carcar%C3%A1%20Logo%20Alternativa%20(fundo%20ros%C3%AA).jpg)
 
+<p align="justify">
 "Pandemia Estruturada" é um projeto desenvolvido pela Carcará Analysis, que tem como objetivo analisar os dados oficiais da COVID-19 no estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, através de visualizações gráficas.
 
 Sendo a simplicidade um dos princípios do projeto, as visualizações serão geradas pensando prioritariamente na utilidade prática que podem oferecer ao cliente.
+</p>
 
 ### Tecnologias Utilizadas
 
@@ -100,13 +102,9 @@ Sendo a simplicidade um dos princípios do projeto, as visualizações serão ge
 
 ![Imagem](https://github.com/Aldrik-Alvaro/Dom_Rock/blob/main/GIT/cabecario2.jpg)
 
-O desafio consiste em desenvolver uma solução na gestão de ativação do cliente na plataforma Dom Rock.
-
-A empresa busca uma solução que seja orientada a entrada de dados de parâmetros e variáveis de cada cliente para alocar recursos na plataforma Dom Rock, entrada de dados e estimativa de consumo de recursos (baseado em volume de dados de cliente, quantidade de usuários e outros) e gere relatórios e consultas, mas, principalmente, tenha a base de dados modelada adequadamente para futuras integrações com outros sistemas.
-
-A Fluffy API desenvolveu o Sistema de Gerenciamento de Clientes - Dom Rock, uma aplicação desktop desenvolvida em Java utilizando um banco relacional para cadastrar e armazenar o dados do briefing dos clientes.
-
-Além de cadastrar, também ira possuir a função de consulta, edição, relatórios, logs e exportação. Não esquecendo dos usuários com níveis de acessos definidos para maior segurança dos dados na plataforma.
+<p align="justify">
+O desafio foi desenvolver uma solução para gerenciar a ativação de clientes na plataforma Dom Rock, integrando dados de parâmetros e variáveis de cada cliente para alocação de recursos. A solução deve incluir entrada de dados, estimativa de consumo de recursos, geração de relatórios e consultas, além de uma base de dados bem modelada para futuras integrações. A equipe Fluffy desenvolveu um Sistema de Gerenciamento de Clientes em Java, com funcionalidades de cadastro, consulta, edição, relatórios, logs e exportação, e com níveis de acesso para garantir segurança dos dados.
+</p>
 
 ### Tecnologias Utilizadas
 
@@ -118,22 +116,7 @@ Além de cadastrar, também ira possuir a função de consulta, edição, relat�
 ### Contribuições Pessoais
 
 #### Desenvolvimento do Banco de dados:
-Desempenhei um papel fundamental no desenvolvimento do banco de dados SQL Server, trabalhando no design, estruturação e implementação das funcionalidades específicas necessárias para o projeto.
-
-#### Codigo:
-Nesse trecho de codigo construo uma view, para poder trazer todas as bases unificadas atraves de left joins com base nos campos chaves usados.
-![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/view%20dom%20rock.png)
-
-### Aprendizados Efetivos
-
-Durante o desenvolvimento, aprendi:
-
-<details>
-  <summary>Aprendizado em Banco de dados</summary>
-  Trabalhar com o SQL Server ampliou minha compreensão sobre gerenciamento de bancos de dados e consultas SQL.
-</details>
-
-
+ - Desempenhei um papel no desenvolvimento do banco de dados SQL Server, trabalhando no design, estruturação e implementação das funcionalidades específicas necessárias para o projeto.
 
 
 ### Hard Skills
