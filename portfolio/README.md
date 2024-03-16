@@ -43,9 +43,8 @@ Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução,
 ![Imagem](https://github.com/SoSoJigsaw/Carcara/blob/main/Sprint%201/Logos/Carcar%C3%A1%20Logo%20Alternativa%20(fundo%20ros%C3%AA).jpg)
 
 <p align="justify">
-"Pandemia Estruturada" é um projeto desenvolvido pela Carcará Analysis, que tem como objetivo analisar os dados oficiais da COVID-19 no estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, através de visualizações gráficas.
-
-Sendo a simplicidade um dos princípios do projeto, as visualizações serão geradas pensando prioritariamente na utilidade prática que podem oferecer ao cliente.
+Em 2021-6, trabalhei no projeto da API com o Parceiro Acadêmico Fatec. 
+Nosso objetivo foi analisar os dados da COVID-19 no estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, por meio de visualizações gráficas. Sendo a simplicidade um dos princípios do projeto, as visualizações serão geradas pensando prioritariamente na utilidade prática que podem oferecer ao cliente.
 </p>
 
 ### Tecnologias Utilizadas
