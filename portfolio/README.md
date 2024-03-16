@@ -172,39 +172,16 @@ Para resolver isso, precisamos de um sistema para importar e armazenar os dados 
 ### Contribuições Pessoais
 
 #### Desenvolvimento do back-end:
-Desempenhei um papel fundamental no desenvolvimento do back-end, implementando funcionalidades e lógica de negócios.
+ - Desempenhei um papel fundamental no desenvolvimento do back-end, implementando funcionalidades e lógica de negócios.
 
 #### Comunicação entre front-end e back-end:
-Garanti uma comunicação eficiente entre as camadas front-end e back-end, assegurando a transmissão correta de informações.
+ - Garanti uma comunicação eficiente entre as camadas front-end e back-end, assegurando a transmissão correta de informações.
 
 #### Implementação de filtros dinâmicos utilizando Ajax:
-Implementei filtros dinâmicos com Ajax para permitir aos usuários filtrar e buscar informações de forma flexível.
+ - Implementei filtros dinâmicos com Ajax para permitir aos usuários filtrar e buscar informações de forma flexível.
 
 ![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/VIDEOS/1.png)
 
-### Aprendizados Efetivos
-
-Durante o desenvolvimento, aprendi:
-
-<details>
-  <summary>Aprendizado em Spring Boot</summary>
-  Trabalhar com Spring Boot aprofundou minha compreensão de desenvolvimento back-end.
-</details>
-
-<details>
-  <summary>Aprimoramento do desenvolvimento front-end</summary>
-  Tive a oportunidade de aprimorar minhas habilidades em tecnologias front-end.
-</details>
-
-<details>
-  <summary>Integração entre front-end e back-end</summary>
-  Aprendi a importância de uma comunicação eficiente entre as camadas front-end e back-end.
-</details>
-
-<details>
-  <summary>Trabalho em equipe e colaboração</summary>
-  A importância da comunicação e colaboração para um trabalho em equipe eficaz.
-</details>
 
 ### Hard Skills
 
@@ -252,37 +229,11 @@ A equipe da Octopus desenvolverá um software web para a Embraer que permitirá 
 
 ### Contribuições Pessoais
 
-
 #### Comunicação entre front-end e back-end: 
-Assegurei a integração eficiente entre as camadas front-end e back-end, facilitando a transmissão precisa e segura de informações entre os sistemas Vue.js no front-end e Spring Boot no back-end.
+ - Assegurei a integração eficiente entre as camadas front-end e back-end, facilitando a transmissão precisa e segura de informações entre os sistemas Vue.js no front-end e Spring Boot no back-end.
 
 #### Desenvolvimento do banco de dados:
-Desempenhei um papel fundamental no design, implementação e manutenção do banco de dados Oracle Autonomous, garantindo sua integridade e desempenho para atender às necessidades do projeto.
-
-#### Codigo
-Aqui um exemplo de uma trigger onde a mesma é responsavel por gerar logs de auditoria para algumas tabelas essenciais.
-![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/job%20embraer.png)
-
-### Aprendizados Efetivos
-
-Durante o desenvolvimento, aprendi:
-
-<details>
-  <summary>Aprendizado em banco de dados</summary>
-  Aprofundei meu conhecimento no gerenciamento de bancos de dados Oracle, especialmente em sua integração e utilização eficiente no desenvolvimento de aplicações.
-</details>
-
-<details>
-  <summary>Aprimoramento do desenvolvimento front-end</summary>
-  Desenvolvi minhas habilidades em tecnologias front-end, aprimorando a criação de interfaces e a implementação de soluções visuais.
-</details>
-
-<details>
-  <summary>Integração entre front-end e back-end</summary>
-  Compreendi a importância e as práticas para uma comunicação eficiente entre as camadas front-end e back-end, facilitando a interação entre sistemas Vue.js no front-end e Spring Boot no back-end.
-</details>
-
-
+ - Desempenhei um papel fundamental no design, implementação e manutenção do banco de dados Oracle Autonomous, garantindo sua integridade e desempenho para atender às necessidades do projeto.
 
 ### Hard Skills
 
@@ -336,30 +287,14 @@ A equipe da Fluffy desenvolverá um sistema web que permitirá o gerenciamento d
 ### Contribuições Pessoais
 
 #### Desenvolvimento do Front-end:
-Desempenhei um papel fundamental no desenvolvimento do front-end, implementando funcionalidades e aprimorando a experiência do usuário no projeto.
+ - Desempenhei um papel fundamental no desenvolvimento do front-end, implementando funcionalidades e aprimorando a experiência do usuário no projeto.
 
 #### Comunicação entre front-end e back-end:
-Assegurei uma comunicação eficiente e precisa entre as camadas front-end e back-end, garantindo a integração fluida e a transmissão correta de informações.
+ - Assegurei uma comunicação eficiente e precisa entre as camadas front-end e back-end, garantindo a integração fluida e a transmissão correta de informações.
 
 #### Criação de gráficos e visualizações no BI:
-Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, utilizando dados provenientes da integração entre front-end e back-end para apresentar informações relevantes de forma clara e visualmente impactante.
+ - Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, utilizando dados provenientes da integração entre front-end e back-end para apresentar informações relevantes de forma clara e visualmente impactante.
 
-
-##### Codigo
-Construi filtros em ajax para realizar consultas dinamicas onde uma consulta desencadeia a outra, assim temos filtros responsiveis a informação que o usuario está filtrando.
-![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/bi%20oracle.jpg)
-
-### Aprendizados Efetivos
-
-<details>
-  <summary>Aprimoramento do desenvolvimento front-end</summary>
-  Desenvolvi minhas habilidades em tecnologias front-end, aprimorando a criação de interfaces e a implementação de soluções visuais.
-</details>
-
-<details>
-  <summary>Aprimoramento do desenvolvimento de visualizações no BI Oracle</summary>
-  Aprofundei minha compreensão e habilidades no desenvolvimento de visualizações e análises de dados utilizando Oracle Analytics, focando em apresentações visuais e interpretação de informações para suporte à tomada de decisões.
-</details>
 
 ### Hard Skills
 
